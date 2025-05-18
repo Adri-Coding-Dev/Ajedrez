@@ -12,4 +12,5 @@ public class Knight extends Piece{
 			image=getImage("/piece/b-knight");
 		}
 	}
+	
 }
